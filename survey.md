@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: purple
+Favorite food: schwarma
+Favorite musician/band: katy perry
+Favorite movie: the matrix
+Requested grade in the course: 99
